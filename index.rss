@@ -2,6 +2,8 @@
 <title>Marcus Vinicius Ferreira's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Added files to the index area for inclusion in the next commit with git add</title><description>____________________________________________________________</description></item>
+<item><title>____________________________________________________________</title><description>Stone Mason (Level 6)</description></item>
 <item><title>pushed a branch to a remote repository using git push</title><description>____________________________________________________________</description></item>
 <item><title>____________________________________________________________</title><description>Socialite (Level 5)</description></item>
 <item><title>Stash the changes in a dirty working directory away with git stash.</title><description>____________________________________________________________</description></item>
@@ -20,6 +22,4 @@
 <item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Socialite (Level 2)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Stone Mason (Level 3)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
 </channel></rss>
