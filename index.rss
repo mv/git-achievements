@@ -3,6 +3,8 @@
 <description></description>
 <link></link>
 <item><title>Investigate the commit log using git log.</title><description>____________________________________________________________</description></item>
+<item><title>____________________________________________________________</title><description>Historian (Level 4)</description></item>
+<item><title>Investigate the commit log using git log.</title><description>____________________________________________________________</description></item>
 <item><title>____________________________________________________________</title><description>Apprentice Historian (Level 3)</description></item>
 <item><title>Reviewed patches before committing with git diff --cached.</title><description>____________________________________________________________</description></item>
 <item><title>____________________________________________________________</title><description>Apprentice Goldsmith (Level 2)</description></item>
@@ -20,6 +22,4 @@
 <item><title>____________________________________________________________</title><description>Let there be light</description></item>
 <item><title>Added files to the index area for inclusion in the next commit with git add</title><description>____________________________________________________________</description></item>
 <item><title>____________________________________________________________</title><description>Stone Mason (Level 6)</description></item>
-<item><title>pushed a branch to a remote repository using git push</title><description>____________________________________________________________</description></item>
-<item><title>____________________________________________________________</title><description>Socialite (Level 5)</description></item>
 </channel></rss>
